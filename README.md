@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashik Sarker</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1818132/screenshots/4863343/media/02f73b4809ae455cbda8ef285c7a46f4.gif">
 
 
