@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [https://ashikcse045.github.io/](https://me.ashiklabs.com/)
+- 👨‍💻 All of my projects are available at [https://me.ashiklabs.com](https://me.ashiklabs.com)
 
 - 📫 How to reach me **ashikcse321@gmail.com**
 
